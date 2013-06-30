@@ -1,6 +1,6 @@
 {
   "name": "bearhug",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Wrap text patterns with configurbale html tags.",
   "author": {
     "name": "Jake Harding",
