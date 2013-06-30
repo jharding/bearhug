@@ -1,0 +1,23 @@
+{
+  "name": "bearhug",
+  "version": "0.0.0",
+  "description": "Wrap text patterns with configurbale html tags.",
+  "author": {
+    "name": "Jake Harding",
+    "email": "jacob.s.harding@gmail.com"
+  },
+  "devDependencies": {
+    "karma": "~0.8.6"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jharding/bearhug.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jharding/bearhug/issues"
+  },
+  "license": "MIT"
+}
