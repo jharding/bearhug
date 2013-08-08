@@ -3,7 +3,7 @@
 Bearhug
 =======
 
-Bearhug wraps text patterns with configurbale html tags. It's fast, flexible, 
+Bearhug wraps text patterns with configurable html tags. It's fast, flexible, 
 and best of all, has no dependencies.
 
 Download
