@@ -91,5 +91,5 @@ Copyright (c) 2013 [Jake Harding](http://thejakeharding.com)
 Licensed under the MIT License.
 
 [bearhug.js]: https://raw.github.com/jharding/bearhug/master/bearhug.js 
-[jasmine]: http://pivotal.github.com/jasmine/
+[jasmine]: https://jasmine.github.io/
 [karma]: http://karma-runner.github.io
